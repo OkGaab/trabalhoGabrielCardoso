@@ -1,0 +1,18 @@
+*{
+    background-color: #808080;
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.form{
+    color: #FFF;
+    border: 1px solid #000;
+    text-align: center;
+}
+
+.cp{
+    color: #FFF;
+text-align: center;
+list-style-type: none;
+}
